@@ -72,7 +72,7 @@ inbounds:
   streamSettings:
     network: ws
     wsSettings:
-      path: /UUID-so
+      path: /
   sniffing:
     enabled: true
     destOverride:
